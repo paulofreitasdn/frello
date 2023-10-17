@@ -1,5 +1,5 @@
 <h1>Frello</h1>
-<p>Esta API representa uma ferramenta altamente eficaz no gerenciamento de tarefas, com foco em simplificar o acompanhamento e a organização de tarefas de maneira eficiente!</p>
+<p>Essa API representa uma ferramenta altamente eficaz no gerenciamento de tarefas, com foco em simplificar o acompanhamento e a organização de tarefas de maneira eficiente!</p>
 
 <p>Abaixo, você encontrará uma visão geral das principais características desta API.</p>
   
