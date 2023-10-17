@@ -1,7 +1,13 @@
 <h1>Frello</h1>
-<p>A API Frello é uma poderosa ferramenta de gerenciamento de tarefas projetada para facilitar o acompanhamento e a organização de tarefas.</p>
-Com o Frello, você pode criar, acompanhar, atualizar e excluir tarefas de maneira eficiente.</p>
+<p>Esta API representa uma ferramenta altamente eficaz no gerenciamento de tarefas, com foco em simplificar o acompanhamento e a organização de tarefas de maneira eficiente.</p>
+
 <p>Abaixo, você encontrará uma visão geral das principais características desta API.</p>
+  
+<h2>Visão Geral</h2>
+<p>Com o Frello, você pode criar, acompanhar, atualizar e acompanhar tarefas de maneira eficiente.</p>
+<p>Se você busca eficiência, colaboração e visibilidade em relação às suas tarefas, a API Frello é a escolha ideal.</p>
+
+<p></p>
 
 <h2>Tecnologias Utilizadas</h2>
 
