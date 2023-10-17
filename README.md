@@ -4,7 +4,7 @@
 <p>Abaixo, você encontrará uma visão geral das principais características desta API.</p>
   
 <h2>Visão Geral</h2>
-<p>Com o Frello, você pode criar, acompanhar, atualizar e acompanhar tarefas de maneira eficiente.</p>
+<p>Com o Frello, você pode criar, acompanhar, atualizar e excluir tarefas de maneira eficiente.</p>
 <p>Se você busca eficiência, colaboração e visibilidade em relação às suas tarefas, a API Frello é a escolha ideal.</p>
 
 <p></p>
