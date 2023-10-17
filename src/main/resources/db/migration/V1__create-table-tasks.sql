@@ -1,0 +1,7 @@
+CREATE TABLE tasks (
+
+    id INT NOT NULL AUTO_INCREMENT,
+    title VARCHAR(100) NOT NULL,
+    text VARCHAR(200) NOT NULL,
+    PRIMARY KEY (id)
+)
