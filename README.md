@@ -1,13 +1,13 @@
-<h1>Frello</h1>
+# Frello
 <p>Essa API representa uma ferramenta altamente eficaz no gerenciamento de tarefas, com foco em simplificar o acompanhamento e a organização de tarefas de maneira eficiente!</p>
 
 <p>Abaixo, você encontrará uma visão geral das principais características desta API.</p>
   
-<h2>Visão Geral</h2>
+## Visão Geral
 <p>Com o Frello, você pode criar, acompanhar, atualizar e excluir tarefas de maneira eficiente.</p>
 <p>Se você busca eficiência, colaboração e visibilidade em relação às suas tarefas, a API Frello é a escolha ideal.</p>
 
-<h2>Tecnologias Utilizadas</h2>
+## 🛠 Tecnologias Utilizadas
 
 <p>O projeto utiliza uma combinação de tecnologias para oferecer um ambiente de desenvolvimento eficiente e seguro!</p>
 
@@ -20,14 +20,14 @@
 - **Lombok:** Biblioteca que ajuda a reduzir a verbosidade do código.
 - **Flyway:** Ferramenta de migração de banco de dados.
 
-<h2>Referências:</h2>
+## Referências:
 
 <p>Java Documentation: https://docs.oracle.com/en/java/</p>
 <p>Spring Documentation: https://docs.spring.io/spring-framework/reference/index.html </p>
 <p>MySQL Documentation: https://dev.mysql.com/doc/</p>
 
-<h2>Dúvidas e Suporte</h2>
+## Dúvidas e Suporte
 <p>Caso você tenha alguma dúvida ou sugestão, fique à vontade para abrir uma issue no repositório!</p>
 
-<h2>Autor</h2>
+## Autor
 <p>Autor do projeto: https://www.linkedin.com/in/paulofreitasdn/</p>
