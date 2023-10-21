@@ -9,7 +9,7 @@
 
 <h2>Tecnologias Utilizadas</h2>
 
-<p>O projeto utiliza uma combinação de tecnologias para oferecer um ambiente de desenvolvimento eficiente e seguro.</p>
+<p>O projeto utiliza uma combinação de tecnologias para oferecer um ambiente de desenvolvimento eficiente e seguro!</p>
 
 - **Spring Boot:** Módulo que agiliza o desenvolvimento de aplicações Spring.
 - **Spring Web:** Módulo do Spring que facilita a criação de APIs REST.
