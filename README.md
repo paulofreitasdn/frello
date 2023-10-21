@@ -2,8 +2,6 @@
 
 <p>Esta API oferece uma solução altamente eficaz para o gerenciamento de tarefas, priorizando a simplificação do acompanhamento e organização de tarefas de forma eficiente.</p>
 
-<p>Abaixo, você encontrará uma visão geral das principais funcionalidades desta API.</p>
-  
 ## ⚙️ Funcionalidades
 
 - [x] Adicionar uma tarefa;
