@@ -30,29 +30,29 @@ import org.springframework.beans.factory.annotation.Autowired;
 public class TaskController {
 
     @Autowired
-    private TaskRepository repository;
+    private TaskRepository taskRepository;
 
     @PostMapping("/register")
     @Transactional
     public void register(@RequestBody @Valid TaskData data) {
-        repository.save(new Task(data));
+        taskRepository.save(new Task(data));
     }
 
     @GetMapping("/list")
     public Page<ListTask> list(@PageableDefault(sort = {"title"}) Pageable pagination) {
-        return repository.findAll(pagination).map(ListTask::new);
+        return taskRepository.findAll(pagination).map(ListTask::new);
     }
 
     @PutMapping("/update")
     @Transactional
     public void update(@RequestBody @Valid UpdateTask updateTask) {
-        Task task = repository.getReferenceById(updateTask.id());
+        Task task = taskRepository.getReferenceById(updateTask.id());
         task.updateTask(updateTask);
     }
 
     @DeleteMapping("/{id}")
     @Transactional
     public void delete(@PathVariable Long id) {
-        repository.deleteById(id);
+        taskRepository.deleteById(id);
     }
 }
