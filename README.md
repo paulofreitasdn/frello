@@ -1,6 +1,6 @@
 # Frello
 
-<p>Esta API oferece uma solução altamente eficaz para o gerenciamento de tarefas, priorizando a simplificação do acompanhamento e organização de tarefas de forma eficiente.</p>
+<p>Frello é uma API que oferece uma solução altamente eficaz para o gerenciamento de tarefas, priorizando a simplificação do acompanhamento e organização de tarefas de forma eficiente.</p>
 
 ## ⚙️ Funcionalidades
 
