@@ -4,10 +4,10 @@
 
 ## ⚙️ Funcionalidades
 
-- [x] Adicionar uma tarefa;
-- [x] Listar todas às tarefas;
-- [x] Atualizar uma tarefa;
-- [x] Excluir uma tarefa;
+- [x] Adicionar uma tarefa
+- [x] Listar todas às tarefas
+- [x] Atualizar uma tarefa
+- [x] Excluir uma tarefa
 
 ## 🛠 Tecnologias Utilizadas
 
